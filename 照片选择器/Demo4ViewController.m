@@ -41,6 +41,7 @@
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //UICollectionView
     // Do any additional setup after loading the view from its nib.
 }
 - (IBAction)selectedPhoto:(id)sender {
